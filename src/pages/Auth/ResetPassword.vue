@@ -7,6 +7,7 @@
                 <button type="submit">Сбросить пароль</button>
             </form>
         </div>
+        
     </div>
 </template>
 

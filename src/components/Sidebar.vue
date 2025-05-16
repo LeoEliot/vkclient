@@ -29,7 +29,7 @@
           <span class="material-icons">settings</span>
           <span class="text">Настройки</span>
         </LinkItem>
-        <LinkItem class="button" to="/profile">
+        <LinkItem class="button" to="/logout">
           <span class="material-icons">logout</span>
           <span class="text">Выйти</span>
         </LinkItem>
